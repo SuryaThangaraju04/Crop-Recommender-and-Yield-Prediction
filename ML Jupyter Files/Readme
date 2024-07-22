@@ -1,0 +1,8 @@
+crop_yield_india.ipynb:
+This Jupyter notebook handles the preprocessing, training, and evaluation of the crop yield prediction model for various states in India using Random Forest Regressor, leveraging extensive historical and sensor data.
+
+NPK_Model.ipynb:
+This Jupyter notebook is focused on training and evaluating the Random Forest Classifier for crop recommendations based on soil NPK sensor data. It includes preprocessing steps, model training, and performance evaluation.
+
+crop_yield_karnataka.ipynb:
+Similar to the crop_yield_india.ipynb, this notebook is specifically tailored for Karnataka, handling the preprocessing, training, and evaluation of the crop yield prediction model using data collected from all districts within the state.
