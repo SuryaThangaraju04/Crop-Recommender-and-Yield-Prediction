@@ -1,0 +1,8 @@
+load_npk_test.py:
+This script is designed to load and preprocess NPK sensor data for further analysis and model training. It handles the initial data cleaning, transformation, and preparation required for the machine learning model to make accurate crop recommendations based on soil nutrient levels.
+  
+load_india_yield.py:
+This script loads and preprocesses crop yield data for various districts in India. It performs data cleaning and formatting tasks, making the dataset ready for training the Random Forest Regressor model to predict crop yields based on historical and environmental data.
+  
+load_KA_yield.py:
+Focused on Karnataka, this script loads and preprocesses local crop yield data. It ensures the dataset is cleaned and properly formatted, preparing it for the machine learning model to accurately predict crop yields specific to the districts in Karnataka.
