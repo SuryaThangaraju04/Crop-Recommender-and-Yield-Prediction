@@ -1,0 +1,8 @@
+soil_mois_temp_final.ino:
+This Arduino sketch handles the data collection from soil moisture and temperature sensors. It processes the data and prepares it for transmission to the main processing unit (e.g., Raspberry Pi) for further analysis.
+  
+esp_all_data.ino:
+This sketch is used for the ESP32 microcontroller to collect and transmit sensor data (e.g., soil moisture, temperature, NPK levels) to a central server or database. It facilitates real-time monitoring and remote access through the Blynk IoT platform.
+
+NPK_code.ino:
+This Arduino sketch manages the collection of soil nutrient data (Nitrogen, Phosphorus, Potassium) using the JXCT Soil NPK sensor. It prepares the data for transmission to the main processing unit for integration with other sensor data and machine learning models.
