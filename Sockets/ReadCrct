@@ -1,0 +1,8 @@
+ind_yield_input_socket.py
+This script manages the input data and socket communication for the crop yield prediction model for India. It facilitates real-time data transfer between the hardware components and the machine learning model.
+
+KA_yield_input_socket.py
+This script handles the input data and socket communication for the crop yield prediction model specific to Karnataka. It ensures seamless data transmission from sensors to the model for real-time predictions.
+
+NPK_input_socket.py
+This script is responsible for managing the input data and socket communication for the NPK sensor data model. It enables real-time data flow from the NPK sensors to the machine learning model for accurate crop recommendations.
